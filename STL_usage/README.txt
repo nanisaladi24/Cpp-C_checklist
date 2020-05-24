@@ -1,0 +1,1 @@
+This focus on code using STL libraries and other C libraries for effective coding.

@@ -1,0 +1,1 @@
+This focus on OOP concepts (classes, polymorphism, inheritance, abstraction, encapsulation)
